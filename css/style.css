@@ -1,0 +1,54 @@
+/* CSS Global */
+/* Agrega color de fondo a body */
+body
+{
+   background-color: #145a9f;  
+}
+
+/* Agrega color de fondo a header */
+header
+{
+    background-color: #1e90ff;
+    text-align: center; 
+}
+
+/* Agrega color de fondo a main */
+main
+{
+    background-color: darkcyan;
+}
+
+/* CSS Página Inicio */
+.presentacion
+{
+    font-size: 3rem;
+    color: #8b008b;
+
+}
+/* CSS Página Contacto */
+/* Cambios fuente día */
+.dia
+{
+    font-weight: bold;
+    font-size: 3rem;
+    
+}
+
+/* Cambios fuente horarios */
+.horario
+{
+    font-style: italic;
+    text-align: center;
+}
+
+/* Agrega color dia de semana */
+.semana
+{
+    color: #dc143c;
+}
+
+/* Agrega color fin de semana */
+.finde
+{
+    color: #7fff00;
+}
